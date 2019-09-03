@@ -1,2 +1,6 @@
 Find some news to talk about
  + Thenextweb
+Check
+ + Local mail
+ + Mattermost
+ + Redmine

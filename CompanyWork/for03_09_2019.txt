@@ -1,0 +1,2 @@
+Install Postgresql, Studio code
+Bank account number: 0881000457909

@@ -1,0 +1,27 @@
+﻿Sáng
+
+- Training Git: Repository, commit, working-tree, index, clone, pull, push, merge, conflict
+
+    + Commit: href #ticket 
+
+                     Chừa một dòng
+
+                     Mô tả
+
+    + Branch (git-flow): master, dev, hotfix, release, feature
+
+    + Checkout, Head -Stash, Reset - Reverse, Fetch
+
+- Sourcetree (Git GUI)
+
+- Redmine
+
+
+
+Chiều
+
+- Design pattern 
+
+
+
+ 

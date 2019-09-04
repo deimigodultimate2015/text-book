@@ -1,0 +1,10 @@
+Sang
+ - Thiet lap co ban cho may tinh ca nhan
+ - Gioi thieu so qua ve cong ty nhu thanh vien, oppurnity
+ - Chon cong nghe cho du an ca nhan
+
+Chieu
+ - Slide ve cac kien thuc co ban lam du an MVC, Framework
+ - Cac career path trong cong ty co hoi
+ - Ky hop dong
+ - Quy dinh bao mat

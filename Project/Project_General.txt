@@ -1,0 +1,74 @@
+﻿Phần mềm quản lí nhân viên
+==================================================================
+Mô tả: Là một website cho phép tracking trạng thái của nhân viên. Quản lí các thông của nhân viên và đánh giá nhân viên
+Chức năng:
+	+ Màn hình đăng nhập
+		- Đăng nhập
+			. Username
+			. Password
+		- Ghi nhớ đăng nhập
+	+ Màn hình thống kê và danh sách nhân viên
+		- Thêm nhân viên
+			. Họ tên
+			. Ngày sinh giới tính
+			. Địa chỉ
+			. Số điện thoại
+			. Email
+			. Ghi chú tay
+		- Xuất danh sách nhân viên
+		- Phần thống kê nhân viên
+			. Số nhân viên có thành tích tích cực
+			. Số nhân viên có thành tích tiêu cực
+		- Phần danh sách nhân viên
+			. Search nhân viên theo cột
+			. Sắp xếp nhân viên theo cột
+			. Thông tin nhân viên hiển thị
+				+ Tên nhân viên
+				+ Tổng số đánh giá tốt và không tốt
+				+ Số điện thoại
+				+ Giới tính
+				+ Ngày sinh
+				+ Xếp hạng
+			. Phân trang
+			. Xem chi tiết
+	+ Màn hình chi tiết nhân viên
+		- Ảnh đại diện nhân viên
+		- Thay ảnh đại diện
+		- Chỉnh sửa thông tin (Đề xuất dùng modal)
+		- Tab thông tin cơ bản (tất cả thông tin cơ bản của nhân viên trừ phần viết tay)
+		- Tab thông tin viết tay
+		- Tab đánh giá nhân viên
+			. Ngày đánh giá
+			. Loại đánh giá
+			. Người đánh giá
+			. Chi tiết đánh giá
+				. Xóa đánh giá
+		- Tab ghi chú
+			. Ngày ghi chú
+			. Mã ghi chú
+			. Chi tiết ghi chú
+				. Xóa ghi chú
+====================================================================
+Đối tượng:
+Tài khoản
+	- Username
+	- Password
+Nhân viên
+	- Mã nhân viên
+	- Họ và tên
+	- Ngày sinh
+	- Giới tính
+	- Địa chỉ
+	- Số điện thoại 
+	- Email
+	- Thông tin viết tay
+Đánh giá
+	- Mã đánh giá
+	- Mã nhân viên
+	- Loại đánh giá
+	- Người đánh giá
+	- Nội dung đánh giá
+Ghi chú
+	- Mã ghi chú
+	- Nội dung ghi chú
+	- Mã nhân viên

@@ -1,1 +1,2 @@
-Think about your attitute at work, find some thing to think about
+Promise pattern in angular
+https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18

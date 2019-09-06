@@ -1,2 +1,3 @@
 Promise pattern in angular
-https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18
+Learn how to use stream java
+Ready to apply dto to SPRING BOOTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

@@ -3,3 +3,7 @@
 	- Tạo cơ sở dữ liệu bằng PostgreSQL
 	- Tiếp tục nghiên cứu nested routing
 		.https://www.freakyjolly.com/angular-nested-routing-with-multiple-routeroutlet-using-loadchildren-having-own-router-modules-example-application/#more-2630
+Chiều:
+	- Lên task cho project
+	- Nghiên cứu cách modify attribute object với Stream java
+	- Nghiên cứu cách áp dụng DTO

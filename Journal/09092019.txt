@@ -1,0 +1,8 @@
+﻿Sáng
+  - Tạo repository cho project
+  - Khởi tạo front end project
+  - Khởi tạo project back end
+  - Code entity 
+Chiều
+  - Code entity
+  - Review dự án

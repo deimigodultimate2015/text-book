@@ -1,0 +1,6 @@
+﻿Sáng
+- Estimate lại dự án mới
+- Ôn lại OOP
+Chiều 
+- Estimate dự án mới
+- Dựng entities

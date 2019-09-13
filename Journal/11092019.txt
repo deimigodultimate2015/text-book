@@ -1,0 +1,6 @@
+﻿Sáng
+	- Tạo entity
+	- Báo cáo theo tuần
+Chiều
+	- Tạo Get Tag
+	- Tạo Upload hình ảnh

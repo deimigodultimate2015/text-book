@@ -4,3 +4,4 @@
 Chiều 
 - Estimate dự án mới
 - Dựng entities
+- SQL (Function, Keyword)

@@ -1,0 +1,5 @@
+﻿Sáng:
+ - Code front end tính năng upload truyện
+ - Tranning quản li bản thân
+Chiều:
+ - Code service upload truyện

@@ -1,0 +1,6 @@
+﻿Sáng
+- Học về văn hóa nhật
+- Cập nhật page service: put, post, get
+Chiều
+- Tạo function postgres
+- Cập nhật front end

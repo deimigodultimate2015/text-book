@@ -1,0 +1,25 @@
+﻿29) (p → q) ∧ (q → r) → (p → r)
+____________________________________________________________________________________________________
+p	q	r	(p → q)		(q → r)		(p → r)		(p → q) ∧ (q → r) → (p → r)
+T	T	T	T		T		T		T
+T	T	F	T		F		F		T
+T	F	F	F		T		F		T
+F	F	F	T		T		T		T
+F	F	T	T		T		T		T
+F	T	T	T		T		T		T
+F	T	F	T		F		T		T
+T	F	T	F		T		T		T
+
+30) (p ∨ q) ∧ (¬p ∨ r) → (q ∨ r) is tautology
+to not tautology then (q ∨ r) false and (p ∨ q) ∧ (¬p ∨ r) true
+3 stage that q ∨ r can be fale
+	- q: false; r: false
+if p true then (p ∨ q) false => false => tautology
+if p false then (¬p ∨ r) true => false => tautology
+
+31) (p → q) → r and p → (q → r)
+not equivalent mean when
+	(p → q) → r is false but p → (q → r) is true
+let (q → r) is false then r is true and q is false and p is true => r: false, q: true, p: true
+
+p	q	r	(p → q)		(p → q) → r
